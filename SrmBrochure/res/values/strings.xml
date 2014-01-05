@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SrmBrochure</string>
+    <string name="action_settings">Settings</string>
+    <string name="para1">SRM University is one of the top ranking universities in India with 33,044 students and 2358 faculty across all the campus</string>
+    <string name="para2">offering a wide range of undergraduate, postgraduate and doctoral programs in Engineering</string>
+    <string name="para3"> Management, Medicine and Health sciences, and Science and Humanities.Srm is also known as Indias No.1 multistream private university</string>
+    <string name="campus">Campus</string>
+    <string name="accomodation">Accommodation</string>
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="str1">About SRM</string>
+    <string name="str2">Achievements</string>
+    <string name="str3">Admissions</string>
+    <string name="str4">Contact Us</string>
+    <string name="str5">Acedemics</string>
+    <string name="title_activity_students">Students</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_admission">Admission</string>
+    <string name="title_activity_engineering">Engineering</string>
+    <string name="title_activity_contact_us">ContactUs</string>
+    <string name="home">Home</string>
+    <string name="previous">Exit</string>
+    <string name="title_activity_campus">Campus</string>
+    <string name="campus1">SRM University has been consistent to maintain excellence in the academic standards since its inception. Srm university functions at three  campuses</string>
+    <string name="campus3">Kattankulathur Campus also houses the SRM Medical College Hospital and Research Center and SRM Hostel. Round the clock security, ATM, Post Office, departmental stores, restaurants and numerous canteens are some of the facilities available in the campus.
+The highlights of Kattankulathur Campus are as follows:</string>
+    <string name="campus2">KATTANKULATHUR</string>
+    <string name="campus4">1.•	42 blocks, spread over 250 acres
+•	The 3-star SRM Hotel with swimming pool, banquet halls</string>
+    <string name="campus5">•	A Central Library with vast resources</string>
+    <string name="campus6">•	Air-conditioned auditorium that can accommodate over 4,000 people</string>
+    <string name="campus7">•	Language Lab - specializing in English, German, Japanese, French and Chinese</string>
+    <string name="campus8">•	15 Canteens - from fast-food to full-fledged cafeterias, spread throughout the campus
+•	Retail outlets - Higginbothams book store, Airtel phone booths, Reynolds teller machines, Super Markets, Reliance Webworld with Java Cafe - all within the campus</string>
+    <string name="campus9">RAMAPURAM</string>
+    <string name="campus10">A serene and charming enclave consists of 5 academic blocks spread over 27 acres, with all the necessary facilities and infrastructure for medical and health science students. Ramapuram Campus also houses the College of Engineering and Technology, Dental College, School of Management and College of Science and Humanities. The facilities here include</string>
+    <string name="campus11">•	Air conditioned Auditorium
+•	8 Mbps internet leased line</string>
+    <string name="campus12">•A General Hospital with 150 beds</string>
+    <string name="campus13">•Separate hostels for men and women
+•	25 buses</string>
+    <string name="campus14">•Banking and DTP facilities</string>
+    <string name="campus15">VADAPALANI</string>
+    <string name="campus16">Spread across six acres in the heart of the city, Vadapalani Campus consists of the following:</string>
+    <string name="campus17">•	12 Mbps internet connectivity
+•	Smart Classrooms</string>
+    <string name="campus18">•	Lecture Halls
+•	Library
+•	Conference Halls</string>
+    <string name="campus19">NCR delhi</string>
+    <string name="campus20">Spread across 25 acres of land, this campus houses the faculties of Engineering and Technology, Management and Teacher Education. The facilities here include</string>
+    <string name="campus21">•	Air conditioned classrooms
+•	Academic block with plinth area of 5 lakh sq ft
+•	Auditorium and conference halls
+•	Separate hostels for men and women
+•	Indoor and outdoor sports facilities</string>
+    <string name="campus22">Home</string>
+    <string name="title_activity_accommodation">Accommodation</string>
+    <string name="acc1">Srm university has over 4000 students accommodating inside the campus. there are different hostels fo girls and boys. there is international hostel with all the facilities that is needed for luxory. there are around 12 to 15 hostels in total.</string>
+    <string name="acc2">HOSTEL FOR MENS</string>
+    <string name="acc3">adhiyaman</string>
+    <string name="acc4">Began</string>
+    <string name="acc5">oori</string>
+    <string name="acc6">kari</string>
+    <string name="acc7">pari</string>
+    <string name="acc8">TRS hostel</string>
+    <string name="acc17">Nelson Mandela</string>
+    <string name="acc9">HOSTEL FOR GIRLS</string>
+    <string name="acc10">Meenakshi</string>
+    <string name="acc11">Kurunji</string>
+    <string name="acc12">Mullai</string>
+    <string name="acc13">thamarai</string>
+    <string name="acc14">Malligai</string>
+    <string name="acc15">Manoranjhitam</string>
+    <string name="acc16">INTERNATIONAL HOSTEL</string>
+    <string name="acc18">these are the hostels for the E and T students.</string>
+    <string name="acc19">Others hostels such as PF and UG are for others.</string>
+    <string name="acc20">Srm provides proper accommodation for the students as well as for faculty</string>
+    <string name="additional1">Srm university is established in a 650 acers campus , with various facilties of canteens , food court , gardens playing field</string>
+    <string name="additional2">for the campus and accommodaition information go for the below.</string>
+    <string name="fee">Fee Structure</string>
+    <string name="title_activity_fees">Fees</string>
+    <string name="action_search">search</string>
+    <string name="action_setting">search_setting</string>
+    <string name="google">google</string>
+    <string name="title_activity_achievements">Achievements</string>
+    <string name="title_activity_achb1">Achb1</string>
+    <string name="title_activity_achb2">Achb2</string>
+    <string name="title_activity_achb3">Achb3</string>
+    <string name="title_activity_achb4">Achb4</string>
+    <string name="achb11">Nirmal Ganesh Manoharan on Cloud Nine</string>
+    <string name="achb12">Nirmal Ganesh Manoharan, final year student of Computer Science Engineering has been placed with Works Applications, the No: 1 ERP solution in Japan. Works Applications has its headquarters in Japan and they come for campus recruitment only to select IIT campuses and very few Universities in India. “SRM University is very fortunate that we are able to meet their requirements and they continue to come to SRM year after year for recruitment,” said Mr. Ganapathy, Dean, Placements, SRM.  He recalled that even last year a computer science engineering graduate student was selected.</string>
+    <string name="achb21">Mechanical Engineering Students Win Honorary Award in Technical Contest</string>
+    <string name="achb22">Nehal Dash and Mufaddal Azad, final year students of Mechanical Engineering, SRM University won the award of Honorary Mention in Nuage Technical Paper Contest held during July to October 2013.
+The contest was open to undergraduate and graduate-level students in information technology (IT) and engineering fields of study across India, provided students the opportunity to submit technical papers on topics such as mechanical engineering, information technology, computer science and engineering, biotechnology and seven other concentrations. It further provided an opportunity for students to interact with others in similar educational and professional fields via the Nuage Café environment.
+The Judges of the Nuage Technical Paper Contest had verified the originality of content in the paper submissions and the best papers were selected as honorary mentions. Honorary mentions will get an opportunity to present their technical papers to a corporate panel of potential employers in online events too. The students will also be given chance to publish their papers in various international journals.</string>
+    <string name="achb31">SRM SAE Second Largest Club in Southern Zone</string>
+    <string name="achb32">SAE or Society of Automotive Engineers is a globally active professional association and standards organization for engineering professionals in various industries. Student clubs of SAE from various universities make sure that they establish a link between the industry and the students.
+The SRM University SAE Collegiate Club is one of the most active student clubs around the campus and happens to be the second largest SAE club in Southern zone. The club was started few years ago by a bunch of mechanical students. The club has increased its sphere as it currently has students from various departments of engineering such as Electrical and Nuclear, Automobile and Aerospace Departments. The clubs Chairman Rishi Raj Singh, 4th year Mechanical student says that "The SAE club has increased its reach as the club no longer focuses only on advancements in automotive technology but reaches out equally to the engineering fraternity on the whole. The club has developed tremendously in the past 2 years and we are trying to raise the bar higher."</string>
+    <string name="achb41">Outstanding Performance by Students of SRM Institute of Hotel Management</string>
+    <string name="achb42">Every year the National Council for Hotel Management and Catering Technology (NCHMCT) and Ministry of Tourism awards “National awards for excellence in Hospitality Education” to recognize outstanding performance of the students in Hospitality Education. The students of SRM Institute of Hotel Management have consistently bagged gold and silver medals for the past four consecutive years.
+This year Mr. Sudhakar Trivedi and Mr.Sattwik Mohanty have won Gold and silver Medals ranking 1st and 2nd  in All India Examination (academic session 2011-2012) conducted by NCHMCT, Noida. Over and above Mr. Sudhakar Trivedi has received an overall gold medal for the academic excellence for the batch 2009-2012. It is a proud moment for SRMIHM to have maintained the Top rankings through the years.</string>
+    <string name="message">Note=click the below buttons to view full description</string>
+    <string name="url">www.srmuniv.ac.in</string>
+    <string name="contact2">Address: 3 Veerasamy Street, West Mambalam, Chennai 600 033.
+Phone: +91-44-2474 2836, +91-44-2474 7231, +91-44-2489 2621, +91-44-2489 3688
+Fax: +91-44-2474 8925</string>
+    <string name="contact4">(Part of Corporate Office)
+No.1, Jawaharlal Nehru Road,
+(100 feet Road, Near Vadapalani Signal ),
+Vadapalani,
+Chennai - 600 026.
+Phone: +91-44-43969999, 43969975
+Fax: +91-44-23624778</string>
+    <string name="suck">contctes</string>
+    <string name="yo">for more information Visit Site:</string>
+    <string name="contact1">HEAD OFFICE</string>
+    <string name="contact3">ADMISSION AND ADMINSTRATION OFFICE</string>
+    <string name="title_activity_acedemics">Acedemics</string>
+    <string name="acd">Srm is a multi-stream universtity with providing over 50 courses.</string>
+    <string name="title_activity_acd1">Acd1</string>
+    <string name="title_activity_acd2">Acd2</string>
+    <string name="title_activity_acd3">Acd3</string>
+    <string name="title_activity_acd4">Acd4</string>
+    <string name="acd1">COLLAGE OF ENGINEERING</string>
+    <string name="acd2">COLLAGE OF MEDICINE</string>
+    <string name="acd3">COLLAGE OF MANAGEMENT</string>
+    <string name="acd4">COLLAGE OF HEALTH AND SCIENCE</string>
+    <string name="adm1">The admission will be purely on the basis of the performance in the Engineering Entrance Examination conducted by SRM University
+The candidates short-listed based on their performance in the entrance examination will be called for the counseling to be held at the SRM University premises in Kattankulathur 603 203, Chennai</string>
+    <string name="adm2">SRM Entrance Examination 2014 (SRMEE 2014) for admission to programs B.Tech, M.Tech, MBA, MCA, Health Sciences - Under Graduate will be will be held as follows:
+(i) Paper - Pencil Mode: April 27, 2014, Sunday from 10:00 AM  to 12:30 PM
+(ii) Computer Based Exam: April 17 to April 22, 2014 with two sessions per day.
+For  B.Tech and Health  Sciences UG:
+Candidate can choose either Paper – Pencil entrance exam or
+Online entrance exam.
+For  M.Tech,  MBA and MCA:
+All candidates have to appear for online entrance exam only.
+Details will be available in the fourth week of November 2013.
+Contact: +91 44 27417400, admissions.india@srmuniv.ac.in</string>
+    <string name="title_activity_apply">Apply</string>
+    <string name="title_activity_eligibility">Eligibility</string>
+    <string name="app1">HOW TO APPLY</string>
+    <string name="app2">Applying to SRM is made simple. There are three modes of applying.
+•	Online Application 
+Click below to apply online using credit card or debit card or net banking.In case of pre-paid application, apply online using Unique Voucher Code as found in the scratch card. </string>
+    <string name="app3">•	Download Application
+Click above site link. Fill details online, download, print and send with Demand Draft (DD) for Rs. 900/- drawn in favour of SRMIST, payable at Chennai. Write the name and address on the reverse of the DD and reach it to us before the specified last date for processing of your application.</string>
+    <string name="app4">•	Direct 
+o	the application form can be purchesed from the banks (axis bank , icici bank)for Rs900. The completed application should be sent to the university so as to reach before the last date specified.
+o	The application can also by obtained by writing to Director Admissions.</string>
+    <string name="elg1">Nationality</string>
+    <string name="elg2">The applicant for admission should be a resident Indian national and
+•	Should have studied in schools located in India in the preceding two years for admission to Undergraduate program.
+•	Should have studied in educational institutions in India and completed their qualifying examination</string>
+    <string name="elg3">Eligibility Criteria in Qualifying Examination</string>
+    <string name="elg4">B.Tech.</string>
+    <string name="elg5">A pass in 11th and 12th or its equivalent and
+(a) For all programs: Minimum 70 percent aggregate in Mathematics, Physics and Chemistry
+(b) For Biotechnology, Biomedical Engineering and Genetic Engineering: Minimum 70 percent aggregate in Mathematics / Biology, Physics and Chemistry.
+In SRMEE-2014
+•	Candidates who have attempted Physics, Chemistry and Mathematics in the SRMEE are eligible for all the B.Tech. Degree programs.
+•	Candidates who have attempted Physics, Chemistry and Biology in the SRMEE are eligible only for B.Tech. Biotechnology, Biomedical Engineering and Genetic Engineering programs and also for various programs in Health Sciences</string>
+    <string name="elg6">B.Des.</string>
+    <string name="elg7">A pass in 10+2 or its equivalent in academic stream having a minimum total aggregate of 70%.</string>
+    <string name="elg8">B.Arch</string>
+    <string name="elg9">•	A pass in 10+2 or its equivalent having a minimum total aggregate of 70% with English and Mathematics as subjects of study or 10+3 Diploma (Any Stream) recognized by Central/State Government with 70% aggregate marks
+•	 A pass in National Aptitude test in Architecture (NATA) conducted by the Council of Architecture.  
+No separate entrance examination will be conducted by SRM University. However, the candidates have to apply in the prescribed application form for admission to B.Arch. program.</string>
+    <string name="lulu">Click the above buttons given to view more!!</string>
+    <string name="haka">To know about ACCOMMODATION and CAMPUS LIFE click below</string>
+    <string name="title_activity_camp1">Camp1</string>
+    <string name="title_activity_camp2">Camp2</string>
+    <string name="title_activity_camp3">Camp3</string>
+    <string name="title_activity_camp4">Camp4</string>
+    <string name="codezac">Developed by- KRIPANSHU BHARGAVA</string>
+    <string name="form">Form</string>
+    <string name="title_activity_form">Form</string>
+<string name="f1">NAME</string>
+<string name="f2">CONTACT_NO</string>
+<string name="f3">EMAIL</string>
+<string name="f4">SUGGESTION</string>
+<string name="send">SEND</string>
+<string name="c1">KATTANKULATHUR</string>
+<string name="c2">RAMAPURAM</string>
+<string name="c3">VADAPALANI</string>
+<string name="c4">NCR,DELHI </string>
+<string name="c">to view full information of campuses , click on the particular option.</string>
+<string name="newz">LATEST NEWS-</string>
+<string name="emailids">IMPORTANT EMAIL-ID</string>
+<string name="news">->SRMEEE 2014 admissions </string>
+</resources>

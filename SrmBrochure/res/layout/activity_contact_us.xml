@@ -1,0 +1,135 @@
+<ScrollView 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@raw/srm9"
+    android:orientation="vertical"
+    tools:context=".contactUs">
+      
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact1"
+        android:textStyle="bold" 
+        android:layout_marginTop="2dp"
+        android:textSize="15sp"/>
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact2"
+       
+        android:layout_marginTop="2dp"
+        android:textSize="13sp"/>
+      <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact3"
+        android:textStyle="bold" 
+        android:layout_marginTop="2dp"
+        android:textSize="15sp"/>
+      <TextView 
+         android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/contact4"
+      
+        android:layout_marginTop="2dp"
+        android:textSize="13sp" />
+     
+
+   <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/c"
+        android:textStyle="bold" 
+        android:layout_marginTop="2dp"
+        android:textSize="15sp"/>
+  
+
+   <RadioGroup 
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:id="@+id/rg">
+    <RadioButton android:id="@+id/r1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/c1"
+        />
+    <RadioButton android:id="@+id/r2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/c2"
+        />
+
+<RadioButton android:id="@+id/r3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/c3"
+        />
+   <RadioButton android:id="@+id/r4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/c4"
+        />
+   </RadioGroup>
+   <TextView 
+       android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textyo"
+        android:textStyle="bold" 
+       />
+   <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/emailids"
+        android:layout_marginTop="40dp"
+        android:textStyle="bold"
+       />
+    
+   <ImageView 
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:contentDescription="@string/suck"
+       android:background="@raw/lol"
+       />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/yo"
+        
+        android:textStyle="bold"
+        />
+   <LinearLayout
+       android:layout_height="wrap_content"
+       android:layout_width="wrap_content"
+       android:orientation="horizontal" >
+     
+       <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="@string/url" 
+       android:textStyle="bold"
+      
+        android:id="@+id/textView"
+        android:textSize="15sp"/>
+
+    <Button 
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginBottom="1dp"
+        
+        android:id="@+id/Home1"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/anim11"
+        android:layout_marginLeft="5dp"/>
+    
+    
+</LinearLayout>
+</LinearLayout>
+</ScrollView>

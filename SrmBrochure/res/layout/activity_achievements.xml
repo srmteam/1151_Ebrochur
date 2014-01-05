@@ -1,0 +1,62 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Achievements"
+    android:orientation="vertical"
+    android:background="@raw/main" >
+<TextView
+    android:layout_height="20dp"
+    android:layout_width="fill_parent"
+    android:text="@string/message"
+    android:layout_marginTop="200dp"
+/>
+<Button
+    android:layout_width="fill_parent"
+    android:layout_height="90dp"
+    android:layout_marginTop="15dp"
+    android:background="@drawable/anim5"
+    android:id="@+id/Achb1"
+    />
+<Button
+    android:layout_width="fill_parent"
+    android:layout_height="90dp"
+    
+    android:background="@drawable/anim6"
+    android:id="@+id/Achb2"
+    android:layout_marginTop="6dp"/>
+<Button
+    android:layout_width="fill_parent"
+    android:layout_height="90dp"
+    
+    android:background="@drawable/anim7"
+    android:id="@+id/Achb3"
+    android:layout_marginTop="6dp"
+    />
+<Button
+    android:layout_width="fill_parent"
+    android:layout_height="90dp"
+    
+    android:background="@drawable/anim8"
+    android:id="@+id/Achb4"
+    android:layout_marginTop="6dp"
+    />
+<Button
+    android:layout_width="70dp"
+    android:layout_height="40dp"
+    android:layout_marginTop="20dp"
+    android:layout_marginBottom="1dp"
+    android:background="@drawable/anim11"
+    android:id="@+id/Home1"
+    
+    />
+
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,152 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Campus"
+    android:background="@raw/srm2" 
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus1" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus2"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus3" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus4" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus7" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus5" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus6" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus8" />
+    <Button 
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:background="@raw/camp1"
+        android:contentDescription="@string/suck"
+        android:id="@+id/camp1"
+        android:layout_marginTop="6dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus9" 
+        android:textStyle="bold"
+        android:layout_marginTop="18dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus10" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus11" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus12" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus13" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus14" />
+    <Button 
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:background="@raw/camp2"
+        android:contentDescription="@string/suck"
+         android:id="@+id/camp2"
+         android:layout_marginTop="6dp"/>
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus15" 
+        android:textStyle="bold"
+        android:layout_marginTop="18dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus16" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus17" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus18" />
+    <Button 
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:background="@raw/camp3"
+        android:contentDescription="@string/suck"
+         android:id="@+id/camp3"
+         android:layout_marginTop="6dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus19"
+        android:textStyle="bold"
+        android:layout_marginTop="18dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus20" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/campus21" />
+    <Button 
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:background="@raw/camp4"
+        android:contentDescription="@string/suck"
+         android:id="@+id/camp4"
+         android:layout_marginTop="6dp"/>
+    <Button
+        android:layout_height="80dp"
+        android:layout_width="60dp"
+        android:id="@+id/Campus"
+        android:layout_marginTop="44dp"
+        android:background="@drawable/anim11"
+        />
+    
+   
+
+</LinearLayout>
+</ScrollView>

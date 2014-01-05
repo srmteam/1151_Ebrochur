@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.srmbrochure"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.srmbrochure.MainActivitySrm"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.AboutUs"
+            android:label="@string/title_activity_about_us"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Students"
+            android:label="@string/title_activity_students"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Admission"
+            android:label="@string/title_activity_admission"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Engineering"
+            android:label="@string/title_activity_engineering"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.ContactUs"
+            android:label="@string/title_activity_contact_us"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Campus"
+            android:label="@string/title_activity_campus"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Accommodation"
+            android:label="@string/title_activity_accommodation"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Fees"
+            android:label="@string/title_activity_fees"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Achievements"
+            android:label="@string/title_activity_achievements"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Achb1"
+            android:label="@string/title_activity_achb1"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Achb2"
+            android:label="@string/title_activity_achb2"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Achb3"
+            android:label="@string/title_activity_achb3"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Achb4"
+            android:label="@string/title_activity_achb4"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Acedemics"
+            android:label="@string/title_activity_acedemics"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Acd1"
+            android:label="@string/title_activity_acd1"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Acd2"
+            android:label="@string/title_activity_acd2"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Acd3"
+            android:label="@string/title_activity_acd3"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Acd4"
+            android:label="@string/title_activity_acd4"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Apply"
+            android:label="@string/title_activity_apply"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Eligibility"
+            android:label="@string/title_activity_eligibility"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Camp1"
+            android:label="@string/title_activity_camp1"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Camp2"
+            android:label="@string/title_activity_camp2"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Camp3"
+            android:label="@string/title_activity_camp3"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Camp4"
+            android:label="@string/title_activity_camp4"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+        <activity
+            android:name="com.example.srmbrochure.Form"
+            android:label="@string/title_activity_form"
+            android:parentActivityName="com.example.srmbrochure" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.srmbrochure" />
+        </activity>
+    </application>
+
+</manifest>
